@@ -14,3 +14,5 @@
 - ⚡ Graduating in System Information
 - 🎓 Administration technician
 - 🚀 Main Tecnologies: ASP.NET, ASP.NET Core, Python
+
+![Project Diagram](Diagram.png)
